@@ -1,0 +1,30 @@
+canvas
+{
+    border-radius: 10px;
+    margin-top: 130px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px white;
+}
+
+body
+{
+    background-size: cover;
+
+}
+
+.heading, #note
+{
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#objectName, #button
+{
+    margin-left: 650px;
+    margin-top: 100px;
+    width: 250px;
+    height: 35px;
+    border-radius: 15px;
+}
