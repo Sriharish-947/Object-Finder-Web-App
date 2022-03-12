@@ -19,8 +19,11 @@ body
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
-
-#objectName, #button
+#status, #objectsFound
+{
+    margin-left: 675px;
+}
+#objectName, #button 
 {
     margin-left: 650px;
     margin-top: 100px;
@@ -28,3 +31,4 @@ body
     height: 35px;
     border-radius: 15px;
 }
+
